@@ -9,6 +9,7 @@
 		dapatkah kamu menemukan username dan password menggunakan kata kunci diatas? <br> 
 		<table width="300" align="center">
 			<form method="GET" action="#">
+			<!-- method bisa menggunakan GET atau POST, perhatikan address bar pada browser !-->
 			<tr>
 				<td>Username</td>
 				<td>:</td>
