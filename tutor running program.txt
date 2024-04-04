@@ -1,4 +1,4 @@
 untuk running code program python, pastikan device sudah terinstal python lalu code tersebut dapat dilankan dengan cmd atau terminal, atau bisa langsung melalui visual studio code.
 untuk menjalankan melalui cmd / terminal ->  python bruteforce.py (enter), python backtracking.py (enter).  (jika error bisa menggunakan python3)
 
-untuk file melihat login.php pada browser harus menginstal aplikasi yang mendukung apache seperti exampp 
+untuk file melihat login.php pada browser harus menginstal aplikasi yang mendukung apache seperti xampp 
